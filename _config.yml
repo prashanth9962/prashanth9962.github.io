@@ -12,7 +12,7 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://prashanth9962.github.io/
-baseurl: /
+baseurl:
 title: Sri Prashanth
 author: Sri Prashanth
 description: Personal blog and resume
