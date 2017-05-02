@@ -6,7 +6,7 @@ body {
   background-color: #fff;
   font-family: 'Source Sans Pro', sans-serif;
   /* The html and body elements cannot have any padding or margin. */
-  border-top: 3px solid #15b1e0;
+  border-top: 3px solid #e4712d;
 }
 /* Wrapper for page content to push down footer */
 #wrap {
@@ -96,10 +96,10 @@ body {
   margin: 20px 0;
 }
 .container a {
-  color: #15b1e0;
+  color: #e4712d;
 }
 .container a:hover {
-  color: #15b1e0;
+  color: #e4712d;
 }
 .img-responsive {
  display: block;
