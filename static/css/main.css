@@ -176,6 +176,11 @@ body {
 div.footer{
   border-bottom: 5px solid #15b1e0;
 }
+
+.indent{
+list-style: disc;
+margin-left: 50px;
+}
 /* Set the fixed height of the footer here */
 /*.footer {
   height: 50px;

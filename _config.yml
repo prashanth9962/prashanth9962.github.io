@@ -1,6 +1,6 @@
 # top level stuff you probably don't need to touch
 highlighter: rouge
-markdown: rdiscount
+markdown: kramdown
 rdiscount:
   extensions: [smart]
 permalink: /:title.html
@@ -18,9 +18,9 @@ author: Sri Prashanth
 description: Personal blog and resume
 avatar: profile.png
 email: prashanth.engr@email.com
-github: prashanth9962# username
-twitter: username
-linkedin: username
+github: https://github.com/prashanth9962 # username
+linkedin: https://www.linkedin.com/in/sri-prashanth-k-p-283aaa66
+#twitter: username
 #stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus 
 #disqus: username
